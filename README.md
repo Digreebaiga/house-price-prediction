@@ -61,7 +61,7 @@ The models are evaluated using:
 
 ## 📁 Project Structure
 
-```text
+``text
 house-price-prediction/
 │
 ├── README.md
@@ -70,7 +70,7 @@ house-price-prediction/
 ├── data/
 ├── code/
 │   ├── hppp.py
-│   ├── Main_evaluate_model.py
+│   ├── evaluate_model.py
 │   └── final_main.py
 │
 ├── models/
