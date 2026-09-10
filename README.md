@@ -109,7 +109,7 @@ The trained Machine Learning models are compared using regression evaluation met
 
 ## 👨‍💻 Author
 
-**Digree Baiga**
+**Digreelal Baiga**
 
 **Project:** House Price Prediction
 **Domain:** Data Science & Machine Learning
