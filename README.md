@@ -61,7 +61,7 @@ The models are evaluated using:
 
 ## 📁 Project Structure
 
-``text
+```text
 house-price-prediction/
 │
 ├── README.md
