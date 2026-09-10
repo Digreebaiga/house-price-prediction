@@ -90,7 +90,7 @@ pip install -r requirements.txt
 ### 2. Run the project
 
 ```bash
-python src/final_main.py
+python code/final_main.py
 ```
 
 > Use the appropriate Python file depending on your project workflow.
